@@ -1,15 +1,15 @@
 Bhavana Laxmi Radharapu
-NedId : bradha5
-UIC: 661326091
+NetID : bradha5
+UIN: 661326091
 Role: Project Manager
 
 Furqaan Ali
-fali30@uic.edu
+NetID: fali30
 UIN: 669471668
 Role: Time Keeper
 
 Shawn John
-shawncj2@uic.edu
+NetID: shawncj2
 UIN:663331719
 Role: Scribe
 
